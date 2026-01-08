@@ -3,8 +3,8 @@
 **Kinetic Dash** is a high-fidelity, interactive system dashboard that blends **physics-based UI**, **real-time hardware monitoring**, and **sensory-driven design**.  
 It demonstrates advanced frontend engineering with a strong focus on tactile UX and motion realism.
 
-🌐 **Live Demo:** https://kinetic-dash.vercel.app  
-📦 **GitHub Repository:** https://github.com/Jaanvichouhan34/kinetic-dash
+🌐 **Live Demo:** [Click here](https://kinetic-dash.vercel.app)
+📦 **GitHub Repository:**  [Click here](https://github.com/Jaanvichouhan34/kinetic-dash)
 
 ---
 
