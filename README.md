@@ -4,6 +4,7 @@
 It demonstrates advanced frontend engineering with a strong focus on tactile UX and motion realism.
 
 🌐 **Live Demo:** [Click here](https://kinetic-dash.vercel.app)
+
 📦 **GitHub Repository:**  [Click here](https://github.com/Jaanvichouhan34/kinetic-dash)
 
 ---
