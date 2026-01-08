@@ -70,19 +70,25 @@ This project is designed to showcase **production-grade frontend skills**, not j
 
 ## 🚀 Installation & Setup
 
-1. **Clone the repository**
+### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/Jaanvichouhan34/kinetic-dash.git
-cd kinetic-dash 
+cd kinetic-dash
+```
+ 
 
-2. **Install dependencies**
-      ```bash
-     npm install
-    
- 3. **Launch Project**
-     ```bash
-     npm run dev  
-  ---
+###2️⃣ Install dependencies
+```bash
+npm install
+```
+
+###3️⃣ Run the development server
+```bash
+npm run dev
+```
+
+---
+
 ## 📬 Contact
 
 Developed by Jaanvi Chouhan
